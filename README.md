@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto é uma loja virtual fictícia, o principal objetivo é trabalhar com Context API e ter um projeto pessoal mais próximo ao mercado de trabalho.
 
-- [Acesse o projeto finalizado, online](https://e-commerce.vercel.app)
+- [Acesse o projeto finalizado, online](https://e-commerce-pi-plum.vercel.app)
 
 ## :memo: Licença
 
